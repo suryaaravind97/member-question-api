@@ -1,5 +1,7 @@
 # 🧠 Member Question Answering API
 
+#Application is live on Render link:https://member-question-api.onrender.com/docs#/default/ask_ask_get
+
 A simple **FastAPI** service that answers natural-language questions about member data fetched from the public `/messages` API.
 
 ---
